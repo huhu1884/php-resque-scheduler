@@ -18,5 +18,8 @@
 	],
 	"require": {
 		"chrisboulton/php-resque": "dev-master"
+	},
+	"replace": {
+    		"chrisboulton/php-resque-scheduler":"dev-master"
 	}
 }
